@@ -7,8 +7,7 @@ Para fazer o mesmo na sua máquina:
 
 Para fazer a instalação do laravel e composer siga esse tutorial no youtube: https://www.youtube.com/watch?v=X4aaPtEbeVM&list=WL&index=9&t=522s
 
--- De acordo com o vídeo, após as instalções rode: php artisan serve
-
+-- De acordo com o vídeo, após as instalações rode: php artisan serve
 
 Com tudo rodando basta retirar os arquivos que vem por padrão e baixa minhas pastas.
 
