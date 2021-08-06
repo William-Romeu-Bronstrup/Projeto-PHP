@@ -9,6 +9,6 @@ Para fazer a instalação do laravel e composer siga esse tutorial no youtube: h
 
 -- De acordo com o vídeo, após as instalações rode: php artisan serve
 
-Com tudo rodando basta retirar os arquivos que vem por padrão e baixa minhas pastas.
+Com tudo rodando, basta retirar os arquivos que vem por padrão e baixar minhas pastas.
 
 lembre, configure seu banco de dados na pasta .env
